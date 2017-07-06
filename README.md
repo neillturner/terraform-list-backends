@@ -5,7 +5,7 @@ List Status of Terraform States in Backend.
 
 * Currently only works with AWS S3 as the backend
 
-## build
+## Build
 ```
 go build -o listbackends.exe
 ```
